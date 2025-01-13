@@ -32,11 +32,11 @@ El proyecto utiliza:
 
 2.Compila el proyecto:
 ```
-mvn compile
+   mvn compile
 ```
 3.Ejecuta el proyecto:
 ```
-mvn exec:java -Dexec.mainClass=com.example.Main
+   mvn exec:java -Dexec.mainClass=com.example.Main
 ```
 Uso
 
