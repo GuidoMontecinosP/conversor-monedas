@@ -25,8 +25,10 @@ El proyecto utiliza:
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/GuidoMontecinosP/conversor-monedas.git
+   ```
+   ```
    cd conversor-monedas
-
+   ```
 
 2.Compila el proyecto:
 ```
@@ -45,7 +47,7 @@ Salir: Cierra el programa.
 
 API Utilizada
 Este proyecto utiliza la API ExchangeRate-API para obtener las tasas de cambio. Es necesario configurar una clave de API en el archivo APIClient.java para que funcione correctamente.
-
+```
 private static final String API_KEY = "TU_CLAVE_DE_API";
-
+```
 
