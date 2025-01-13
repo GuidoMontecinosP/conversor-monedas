@@ -23,7 +23,7 @@ El proyecto utiliza:
 
 ### **Instrucciones**
 1. Clona este repositorio en tu máquina local:
-   ```bash
+   ```
    git clone https://github.com/GuidoMontecinosP/conversor-monedas.git
    ```
    ```
