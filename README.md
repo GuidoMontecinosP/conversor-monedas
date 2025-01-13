@@ -29,13 +29,13 @@ El proyecto utiliza:
 
 
 2.Compila el proyecto:
-
+```
 mvn compile
-
+```
 3.Ejecuta el proyecto:
-
+```
 mvn exec:java -Dexec.mainClass=com.example.Main
-
+```
 Uso
 Al ejecutar el programa, aparecerá un menú con las siguientes opciones:
 
