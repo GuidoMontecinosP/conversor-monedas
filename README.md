@@ -23,12 +23,12 @@ El proyecto utiliza:
 
 ### **Instrucciones**
 1. Clona este repositorio en tu máquina local:
-   ```
+```
    git clone https://github.com/GuidoMontecinosP/conversor-monedas.git
-   ```
-   ```
+```
+```
    cd conversor-monedas
-   ```
+```
 
 2.Compila el proyecto:
 ```
